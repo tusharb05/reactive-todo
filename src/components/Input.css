@@ -1,0 +1,9 @@
+.parent-form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+}
+.input{
+    height: 30px;
+}   
